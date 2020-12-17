@@ -1,0 +1,3 @@
+F:\JetBrains\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\AlgorithmsByCpp.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\AlgorithmsByCpp.dir/objects.a @CMakeFiles\AlgorithmsByCpp.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\AlgorithmsByCpp.dir/objects.a -Wl,--no-whole-archive  -o AlgorithmsByCpp.exe -Wl,--out-implib,libAlgorithmsByCpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AlgorithmsByCpp.dir\linklibs.rsp
